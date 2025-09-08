@@ -85,11 +85,3 @@ Database: SQLite (via SQLAlchemy ORM)
 Frontend: HTML + Bootstrap
 
 Auth: Flask-Login
-
-📸 Screenshots (Optional)
-
-Add screenshots here if you want.
-
-🛡 License
-
-This project is licensed under the MIT License – feel free to use and modify.
